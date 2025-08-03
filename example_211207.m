@@ -1,0 +1,15 @@
+var=1+2;
+var=var*2;
+var=var-10;
+var=var/10.5;
+Var=[1:10];
+Var=[1:1:10];
+Var=[1:2:10];
+Var2=[1.5:-3.25:-20.7];
+Var=1:10;
+Var2=2:2:20;
+size(Var2);
+size(Var);
+length(Var);
+numel(Var);
+Var2(4);
